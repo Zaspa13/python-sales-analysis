@@ -75,6 +75,13 @@ README.md # project documentation
 
 ---
 
+## Sample Visualizations
+
+![Top Item per Zip](images/plot_top_item_per_zip.png)
+![Store Sales Share](images/plot_store_sales_share.png)
+
+---
+
 ## How to Run
 
 1. Clone the repository  
