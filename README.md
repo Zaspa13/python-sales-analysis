@@ -69,9 +69,12 @@ This demonstrates:
 ---
 
 ## Project Structure
-data/ # dataset sample
-final_assignment.py # main analysis script
-README.md # project documentation
+# dataset sample
+data/
+# main analysis script
+final_assignment.py
+# project documentation
+README.md
 
 ---
 
